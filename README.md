@@ -5,25 +5,25 @@
 <div align="center">
   <h1>Hola 👋, soy Sebastián Expósito Ruiz</h1>
   <h3>Full-stack developer junior. Construyo apps end-to-end: UI → lógica → datos → despliegue.</h3>
-  <p>📍 Sevilla, España · 🎓 DAM · 🧠 Me obsesiona que las cosas sean útiles y mantenibles</p>
+  <p>📍 Sevilla, España · 🎓 DAM · 🧩 Soporte IT + desarrollo (Python, Kotlin, C#) · 🤖 IA & automatización</p>
 </div>
 
-<!-- CTA BUTTONS (with logos / avatar) -->
+<!-- CTA BUTTONS (icons + colored badges, spaced) -->
 <p align="center">
   <!-- Portfolio (avatar + purple badge) -->
-  <a href="https://sebigithub.github.io">
-    <img src="https://avatars.githubusercontent.com/u/102872742?v=4" alt="Sebi avatar" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
-  </a>
-  <a href="https://sebigithub.github.io">
+  <img src="https://avatars.githubusercontent.com/u/102872742?v=4" alt="Sebi avatar" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:10px;" />
+  <a href="https://sebigithub.github.io" style="margin-right:26px;">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 
-  <!-- LinkedIn (blue) -->
-  <a href="https://www.linkedin.com/in/sebastian-exposito-ruiz">
+  <!-- LinkedIn (icon + blue badge) -->
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn icon" width="34" height="34" style="vertical-align:middle; margin-right:10px;" />
+  <a href="https://www.linkedin.com/in/sebastian-exposito-ruiz" style="margin-right:26px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Email (red) -->
+  <!-- Email (icon + red badge) -->
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail icon" width="34" height="34" style="vertical-align:middle; margin-right:10px;" />
   <a href="mailto:sebitaexporu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -32,88 +32,103 @@
 ---
 
 ## Stack
-- **Web (Frontend):** <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-- **Android (Mobile):** <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
-- **Desktop (.NET):** <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
-- **Data / Cloud:** <img src="https://skillicons.dev/icons?i=firebase&theme=dark" /> 
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=microsoftpowerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-- **Tools:** <img src="https://skillicons.dev/icons?i=git,github,visualstudio&theme=dark" />
+
+### Web (Frontend)
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<br><br>
+
+### Mobile (Android)
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+<br><br>
+
+### Desktop (.NET)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />
+<br><br>
+
+### Backend / Scripting
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<br><br>
+
+### Bases de datos
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=dark" />
+<br><br>
+
+### Microsoft / Low-code / BI
+<img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" height="42" alt="Power Apps" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsharepoint/0078D4" height="42" alt="SharePoint" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Excel" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" />
+<br><br>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 ---
 
 ## Proyectos destacados
 
 ### 🏥 WEB-DE-PROTOCOLOS-HSJD (TFG)
-**Qué es:** app (TFG) para **gestionar y difundir protocolos hospitalarios** de forma centralizada, controlando visibilidad por **perfil/servicio** y registrando la **lectura** de cada protocolo con **control de versiones**.  
+**Qué es:** app (TFG) para **gestionar y difundir protocolos hospitalarios** de forma centralizada, controlando visibilidad por **perfil/servicio** y registrando la **lectura** de cada protocolo con **control de versiones**.
 
-**Lo más potente:**
+**Funciones y estructura**
 - Catálogo filtrado por categoría/servicio/perfil.
-- Trazabilidad de lectura: “pendiente / leído”.
-- **Versionado real:** si se publica una versión nueva, vuelve a aparecer como pendiente.
-- Admin para alta/edición de protocolos y metadatos.
+- Trazabilidad: “pendiente / leído”.
+- Versionado: si se publica una nueva versión, vuelve a aparecer como pendiente.
+- Gestión de administración: alta/edición de protocolos y metadatos.
 
-**Tech:**  
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=microsoftpowerapps&logoColor=white" />
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+**Tech**
+<img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" height="32" alt="Power Apps" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsharepoint/0078D4" height="32" alt="SharePoint" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="32" alt="Excel" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" height="32" alt="C#" />
 
-🔗 Repositorio: https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD  
+🔗 Repositorio: https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD
+
+---
+
+### 📱 App Agenda (Android)
+**Qué es:** app Android tipo agenda/contactos con **auth** y **almacenamiento en la nube** por usuario usando Firebase, con CRUD completo.
+
+**Funciones y estructura**
+- Registro / inicio de sesión.
+- CRUD de contactos/entradas.
+- Datos por usuario en la nube.
+- Validaciones y feedback en UI.
+
+**Tech**
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" height="32" alt="Kotlin Android Firebase" />
+
+🔗 Repositorio: https://github.com/SebiGitHub/Agenda
 
 ---
 
 ### 🖥️ AvaloniaCatalogoWinForms
-**Qué es:** app de escritorio en C# para gestionar un catálogo (productos/ítems) y practicar UI Desktop comparando enfoques (Avalonia/WinForms), con persistencia local.  
+**Qué es:** app de escritorio en C# para gestionar un catálogo (listado + detalle), practicando estructura de UI y navegación entre pantallas con persistencia local.
 
-**Lo más potente:**
+**Funciones y estructura**
 - Listado + detalle de ítems.
 - Búsqueda/filtrado.
 - CRUD (crear/editar/eliminar).
-- Navegación entre vistas.
+- Navegación y validaciones.
 
-**Tech:**  
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Avalonia%20UI-8B5CF6?style=flat" />
-<img src="https://img.shields.io/badge/MVVM-ff79c6?style=flat" />
-<img src="https://img.shields.io/badge/JSON%20Storage-0d1117?style=flat&logo=json&logoColor=white" />
+**Tech**
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="32" alt="C# .NET" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=json&theme=dark" height="32" alt="JSON" />
 
 🔗 Repositorio: https://github.com/SebiGitHub/AvaloniaCatalogoWinForms
 
 ---
 
-### 📱 App Agenda (Android)
-**Qué es:** app Android tipo agenda/contactos/gestor de tareas con **auth** y **almacenamiento en la nube** por usuario usando Firebase, implementando CRUD completo.  
-
-**Lo más potente:**
-- Registro / inicio de sesión.
-- CRUD de entradas (contactos/citas/tareas).
-- Datos en la nube por usuario.
-- Validaciones y feedback en UI.
-
-**Tech:**  
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=000" />
-<img src="https://img.shields.io/badge/Realtime%20Database-FFCA28?style=flat&logo=firebase&logoColor=000" />
-<img src="https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=materialdesign&logoColor=white" />
-
-🔗 Repositorio: https://github.com/SebiGitHub/Agenda  
-
----
-
-## Stats
+## Stats (fiables)
 <p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=SebiGitHub&show_icons=true&hide_title=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&icon_color=ff79c6&border_color=30363d" />
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=SebiGitHub&background=0d1117&ring=bf91f3&fire=ff79c6&currStreakLabel=79c0ff&sideLabels=79c0ff&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&border=30363d" />
-</p>
-
-<p align="center">
-  <img height="140"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebiGitHub&layout=compact&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&border_color=30363d" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <!--horizontal divider (gradient)-->
