@@ -31,7 +31,7 @@
 
 ---
 
-## Stack (según mis proyectos)
+## Stack
 - **Web (Frontend):** <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 - **Android (Mobile):** <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
 - **Desktop (.NET):** <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
