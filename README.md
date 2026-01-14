@@ -12,87 +12,89 @@
 
 <!-- CTA BUTTONS (table layout = spacing works in GitHub) -->
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://sebigithub.github.io">
-        <img src="https://avatars.githubusercontent.com/u/102872742?v=4" alt="Portfolio icon" width="34" height="34" />
-      </a><br/>
-      <a href="https://sebigithub.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-      </a>
-    </td>
+<tr>
+<td align="center">
+<a href="https://sebigithub.github.io">
+<img src="https://avatars.githubusercontent.com/u/102872742?v=4" alt="Portfolio icon" width="44" height="44" />
+</a><br/>
+<a href="https://sebigithub.github.io">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+</td>
 
-    <td width="26"></td>
+<td width="28"></td>
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/sebastian-exposito-ruiz">
-        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn icon" width="34" height="34" />
-      </a><br/>
-      <a href="https://www.linkedin.com/in/sebastian-exposito-ruiz">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
+<td align="center">
+<a href="https://www.linkedin.com/in/sebastian-exposito-ruiz">
+<img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn icon" width="44" height="44" />
+</a><br/>
+<a href="https://www.linkedin.com/in/sebastian-exposito-ruiz">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
 
-    <td width="26"></td>
+<td width="28"></td>
 
-    <td align="center">
-      <a href="mailto:sebitaexporu@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email icon" width="34" height="34" />
-      </a><br/>
-      <a href="mailto:sebitaexporu@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-  </tr>
+<td align="center">
+<a href="mailto:sebitaexporu@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail icon" width="44" height="44" />
+</a><br/>
+<a href="mailto:sebitaexporu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</td>
+</tr>
 </table>
+
 
 ---
 
 ## Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Web (Frontend)
-<img height="40" src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-<br><br>
+<b>Web (Frontend)</b><br/>
+<img height="42" src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<br/><br/>
 
-### Backend / Scripting
-<img height="40" src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-<br><br>
+<b>Backend / Scripting</b><br/>
+<img height="42" src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+<br/><br/>
 
-### Bases de datos
-<img height="40" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" />
-<br><br>
+<b>Bases de datos</b><br/>
+<img height="42" src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" />
+<br/><br/>
 
-### Tools
-<img height="40" src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<b>Tools</b><br/>
+<img height="42" src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
-    </td>
+</td>
 
-    <td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Mobile (Android)
-<img height="40" src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" />
-<br><br>
+<b>Mobile (Android)</b><br/>
+<img height="42" src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" />
+<br/><br/>
 
-### Desktop (.NET)
-<img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />
-<br><br>
+<b>Desktop (.NET)</b><br/>
+<img height="42" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />
+<br/><br/>
 
-### Microsoft / Low-code / BI
-<img src="assets/icons/powerapps.png" height="40" alt="Power Apps" />
+<b>Microsoft / Low-code / BI</b><br/>
+<img src="assets/icons/powerapps.png" height="42" alt="Power Apps" />
 &nbsp;&nbsp;
-<img src="assets/icons/sharepoint.png" height="40" alt="SharePoint" />
+<img src="assets/icons/sharepoint.png" height="42" alt="SharePoint" />
 &nbsp;&nbsp;
-<img src="assets/icons/excel.png" height="40" alt="Excel" />
+<img src="assets/icons/excel.png" height="42" alt="Excel" />
 &nbsp;&nbsp;
-<img src="assets/icons/powerbi.png" height="40" alt="Power BI" />
+<img src="assets/icons/powerbi.png" height="42" alt="Power BI" />
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 ---
 
@@ -107,6 +109,13 @@
 - Versionado: si se publica una nueva versión, vuelve a aparecer como pendiente.
 - Administración: alta/edición de protocolos y metadatos.
 
+**Tech**  
+<img src="assets/icons/powerapps.png" height="28" alt="Power Apps" />
+&nbsp;
+<img src="assets/icons/sharepoint.png" height="28" alt="SharePoint" />
+&nbsp;
+<img src="assets/icons/excel.png" height="28" alt="Excel" />
+
 🔗 Repositorio: https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD
 
 ---
@@ -120,6 +129,9 @@
 - Datos por usuario en la nube.
 - Validaciones y feedback en UI.
 
+**Tech**  
+<img height="28" src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" />
+
 🔗 Repositorio: https://github.com/SebiGitHub/Agenda
 
 ---
@@ -132,6 +144,11 @@
 - Búsqueda/filtrado.
 - CRUD (crear/editar/eliminar).
 - Navegación y validaciones.
+
+**Tech**  
+<img height="28" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />
+&nbsp;
+<img height="28" src="https://skillicons.dev/icons?i=json&theme=dark" />
 
 🔗 Repositorio: https://github.com/SebiGitHub/AvaloniaCatalogoWinForms
 
