@@ -59,8 +59,7 @@
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 
-🔗 Repo: https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD  
-🖼️ Capturas: mira `/Docs` (puedes copiar las mejores a `/assets/` de este repo de perfil)
+🔗 Repositorio: https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD  
 
 ---
 
@@ -80,7 +79,7 @@
 <img src="https://img.shields.io/badge/MVVM-ff79c6?style=flat" />
 <img src="https://img.shields.io/badge/JSON%20Storage-0d1117?style=flat&logo=json&logoColor=white" />
 
-🔗 Repo: https://github.com/SebiGitHub/AvaloniaCatalogoWinForms
+🔗 Repositorio: https://github.com/SebiGitHub/AvaloniaCatalogoWinForms
 
 ---
 
@@ -100,8 +99,7 @@
 <img src="https://img.shields.io/badge/Realtime%20Database-FFCA28?style=flat&logo=firebase&logoColor=000" />
 <img src="https://img.shields.io/badge/Material%20Design-757575?style=flat&logo=materialdesign&logoColor=white" />
 
-🔗 Repo: https://github.com/SebiGitHub/Agenda  
-🧩 Nota: en el repo tienes pasos de ejecución (Firebase `google-services.json` en `app/`)
+🔗 Repositorio: https://github.com/SebiGitHub/Agenda  
 
 ---
 
