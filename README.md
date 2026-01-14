@@ -13,7 +13,7 @@
   <!-- Portfolio (avatar + purple badge) -->
   <img src="https://avatars.githubusercontent.com/u/102872742?v=4" alt="Sebi avatar" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:10px;" />
   <a href="https://sebigithub.github.io" style="margin-right:26px;">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Sebi avatar&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&llogoColor=white" alt="Portfolio"/>
   </a>
 
   <!-- LinkedIn (icon + blue badge) -->
@@ -25,7 +25,7 @@
   <!-- Email (icon + red badge) -->
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail icon" width="34" height="34" style="vertical-align:middle; margin-right:10px;" />
   <a href="mailto:sebitaexporu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
 </p>
 
