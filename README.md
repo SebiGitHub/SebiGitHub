@@ -46,11 +46,6 @@
 ## Proyectos destacados
 
 ### 🏥 WEB-DE-PROTOCOLOS-HSJD (TFG)
-<p align="center">
-  <!-- TODO: añade tu captura en /assets y sustituye la ruta -->
-  <img src="assets/protocolos-preview.png" alt="WEB-DE-PROTOCOLOS-HSJD preview" width="900" />
-</p>
-
 **Qué es:** app (TFG) para **gestionar y difundir protocolos hospitalarios** de forma centralizada, controlando visibilidad por **perfil/servicio** y registrando la **lectura** de cada protocolo con **control de versiones**.  
 
 **Lo más potente:**
@@ -70,11 +65,6 @@
 ---
 
 ### 🖥️ AvaloniaCatalogoWinForms
-<p align="center">
-  <!-- TODO: añade tu captura en /assets y sustituye la ruta -->
-  <img src="assets/avalonia-preview.png" alt="AvaloniaCatalogoWinForms preview" width="900" />
-</p>
-
 **Qué es:** app de escritorio en C# para gestionar un catálogo (productos/ítems) y practicar UI Desktop comparando enfoques (Avalonia/WinForms), con persistencia local.  
 
 **Lo más potente:**
@@ -95,11 +85,6 @@
 ---
 
 ### 📱 App Agenda (Android)
-<p align="center">
-  <!-- TODO: añade tu captura en /assets y sustituye la ruta -->
-  <img src="assets/agenda-preview.png" alt="App Agenda preview" width="900" />
-</p>
-
 **Qué es:** app Android tipo agenda/contactos/gestor de tareas con **auth** y **almacenamiento en la nube** por usuario usando Firebase, implementando CRUD completo.  
 
 **Lo más potente:**
