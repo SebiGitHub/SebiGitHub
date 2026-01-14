@@ -13,13 +13,13 @@
   <!-- Portfolio (avatar + purple badge) -->
   <img src="https://avatars.githubusercontent.com/u/102872742?v=4" alt="Sebi avatar" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:10px;" />
   <a href="https://sebigithub.github.io" style="margin-right:26px;">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Sebi avatar&logoColor=white" alt="Portfolio"/>
   </a>
 
   <!-- LinkedIn (icon + blue badge) -->
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn icon" width="34" height="34" style="vertical-align:middle; margin-right:10px;" />
+  <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn icon" width="34" height="34" style="vertical-align:middle; margin-right:10px;" />
   <a href="https://www.linkedin.com/in/sebastian-exposito-ruiz" style="margin-right:26px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- Email (icon + red badge) -->
