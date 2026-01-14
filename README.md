@@ -35,23 +35,23 @@
 
 ### Web (Frontend)
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-<br><br>
+<br>
 
 ### Mobile (Android)
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
-<br><br>
+<br>
 
 ### Desktop (.NET)
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />
-<br><br>
+<br>
 
 ### Backend / Scripting
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-<br><br>
+<br>
 
 ### Bases de datos
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=dark" />
-<br><br>
+<br>
 
 ### Microsoft / Low-code / BI
 <img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" height="42" alt="Power Apps" />
@@ -61,7 +61,7 @@
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Excel" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" />
-<br><br>
+<br>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
@@ -126,7 +126,7 @@
 
 ---
 
-## Stats (fiables)
+## Stats
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
