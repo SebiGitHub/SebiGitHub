@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>Full-stack developer junior. Construyo apps end-to-end: UI → lógica → datos → despliegue.</h3>
-  <p>📍 Sevilla, España · 🎓 DAM · 🧩 Soporte IT + desarrollo (Python, Kotlin, C#) · 🤖 IA & automatización</p>
+  <p>📍 Sevilla, España · 🎓 DAM · 🧩 Java/Spring Boot · JavaScript · SQL · 🤖 IA & automatización</p>
 </div>
 
 <!-- CTA BUTTONS (table layout = spacing works in GitHub) -->
@@ -66,7 +66,7 @@
         <br><br>
 
   <h3>Backend / Scripting</h3>
-        <img height="58" src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+        <img height="58" src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" />
         <br><br>
 
   <h3>Bases de datos</h3>
@@ -110,57 +110,26 @@
 
 ## Proyectos destacados
 
-### 🏥 WEB-DE-PROTOCOLOS-HSJD (TFG)
-**Qué es:** app (TFG) para **gestionar y difundir protocolos hospitalarios** de forma centralizada, controlando visibilidad por **perfil/servicio** y registrando la **lectura** con **control de versiones**.
+### WEB-DE-PROTOCOLOS-HSJD — TFG
+Gestión de protocolos mediante Power Apps y SharePoint. Proyecto académico centrado en catálogo, lectura y versiones. Datos y exportaciones originales retirados de la versión actual; demostración saneada pendiente.
 
-**Funciones y estructura**
-- Catálogo filtrado por categoría/servicio/perfil.
-- Trazabilidad: “pendiente / leído”.
-- Versionado: si se publica una nueva versión, vuelve a aparecer como pendiente.
-- Administración: alta/edición de protocolos y metadatos.
+[Repositorio](https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD)
 
-**Tech**  
-<img src="assets/icons/powerapps.png" height="40" alt="Power Apps" />
-&nbsp;
-<img src="assets/icons/sharepoint.png" height="40" alt="SharePoint" />
-&nbsp;
-<img src="assets/icons/excel.png" height="40" alt="Excel" />
+### Knowledge Ops Hub — Java/Spring Boot
+Backend de consulta documental con PostgreSQL/pgvector, autenticación JWT, Ollama y automatizaciones n8n. Incluye procesamiento de PDF y respuestas acompañadas de fuentes.
 
-🔗 Repositorio: https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD
+[Repositorio](https://github.com/SebiGitHub/knowledge-ops-hub)
 
----
+### Agenda — Kotlin / Firebase
+Aplicación Android para registrar, consultar y eliminar contactos con imágenes. Autenticación, separación por usuario y edición pendientes.
 
-### 📱 App Agenda (Android)
-**Qué es:** app Android tipo agenda/contactos con **auth** y **almacenamiento en la nube** por usuario usando Firebase, con CRUD completo.
+[Repositorio](https://github.com/SebiGitHub/Agenda)
 
-**Funciones y estructura**
-- Registro / inicio de sesión.
-- CRUD de contactos/entradas.
-- Datos por usuario en la nube.
-- Validaciones y feedback en UI.
+## Otros proyectos
 
-**Tech**  
-<img height="40" src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" />
+[Catálogo Avalonia](https://github.com/SebiGitHub/AvaloniaCatalogoWinForms): C#/.NET, MVVM y JSON.
 
-🔗 Repositorio: https://github.com/SebiGitHub/Agenda
-
----
-
-### 🖥️ AvaloniaCatalogoWinForms
-**Qué es:** app de escritorio en C# para gestionar un catálogo (listado + detalle), practicando estructura de UI y navegación con persistencia local.
-
-**Funciones y estructura**
-- Listado + detalle de ítems.
-- Búsqueda/filtrado.
-- CRUD (crear/editar/eliminar).
-- Navegación y validaciones.
-
-**Tech**  
-<img height="40" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark" />
-&nbsp;
-<img height="40" src="https://skillicons.dev/icons?i=json&theme=dark" />
-
-🔗 Repositorio: https://github.com/SebiGitHub/AvaloniaCatalogoWinForms
+[Automatización Selenium](https://github.com/SebiGitHub/Selenium-end-to-end): navegación, extracción, capturas y CSV; no es una suite JUnit.
 
 ---
 
