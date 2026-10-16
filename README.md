@@ -108,31 +108,6 @@
 
 ---
 
-## Proyectos destacados
-
-### WEB-DE-PROTOCOLOS-HSJD — TFG
-Gestión de protocolos mediante Power Apps y SharePoint. Proyecto académico centrado en catálogo, lectura y versiones. Datos y exportaciones originales retirados de la versión actual; demostración saneada pendiente.
-
-[Repositorio](https://github.com/SebiGitHub/WEB-DE-PROTOCOLOS-HSJD)
-
-### Knowledge Ops Hub — Java/Spring Boot
-Backend de consulta documental con PostgreSQL/pgvector, autenticación JWT, Ollama y automatizaciones n8n. Incluye procesamiento de PDF y respuestas acompañadas de fuentes.
-
-[Repositorio](https://github.com/SebiGitHub/knowledge-ops-hub)
-
-### Agenda — Kotlin / Firebase
-Aplicación Android para registrar, consultar y eliminar contactos con imágenes. Autenticación, separación por usuario y edición pendientes.
-
-[Repositorio](https://github.com/SebiGitHub/Agenda)
-
-## Otros proyectos
-
-[Catálogo Avalonia](https://github.com/SebiGitHub/AvaloniaCatalogoWinForms): C#/.NET, MVVM y JSON.
-
-[Automatización Selenium](https://github.com/SebiGitHub/Selenium-end-to-end): navegación, extracción, capturas y CSV; no es una suite JUnit.
-
----
-
 ## Stats
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" />
