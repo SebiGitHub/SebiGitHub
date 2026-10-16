@@ -6,8 +6,8 @@
 </h1>
 
 <div align="center">
-  <h3>Full-stack developer junior. Construyo apps end-to-end: UI → lógica → datos → despliegue.</h3>
-  <p>📍 Sevilla, España · 🎓 DAM · 🧩 Java/Spring Boot · JavaScript · SQL · 🤖 IA & automatización</p>
+  <h3>Desarrollador full-stack. Creo y automatizo soluciones inteligentes</h3>
+  <p>📍 Sevilla, España · 🧩 Java/Spring Boot · JavaScript · SQL · 🤖 IA & automatización</p>
 </div>
 
 <!-- CTA BUTTONS (table layout = spacing works in GitHub) -->
